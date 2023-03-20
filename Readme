@@ -6,6 +6,7 @@ Please see:
   https://github.com/dsw/proquint
 
 Install:
+  $ brew tap natuarlethic/pq
   $ brew install pq
 
 Usage:
