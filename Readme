@@ -1,0 +1,16 @@
+pq
+
+Generate a proquint id from the command line.
+
+Please see:
+  https://github.com/dsw/proquint
+
+Install:
+  $ brew install pq
+
+Usage:
+  $ pq
+  jidoj-gabup-lokun-gibah-zaraf-tihaf-nugog-tugih
+
+Notes:
+  Generates a 128 bit proquint id.  If you need a shorter one, just take part of it.
